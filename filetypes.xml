@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
@@ -10,6 +9,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="rebar" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
