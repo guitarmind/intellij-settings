@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="queue_controller" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="rebar" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
