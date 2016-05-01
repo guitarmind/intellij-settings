@@ -72,4 +72,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+  </component>
 </application>
